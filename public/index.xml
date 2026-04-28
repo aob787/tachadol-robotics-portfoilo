@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tachadol Robotics Portfolio</title>
-    <link>http://localhost:1313/robotics-portfolio/</link>
+    <link>http://localhost:1313/robotics-portfoilo-tachadol/</link>
     <description>Recent content on Tachadol Robotics Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/robotics-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/robotics-portfoilo-tachadol/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compliant Tactile Fingertip with Underactuated Cam-Driven Active Pinching</title>
-      <link>http://localhost:1313/robotics-portfolio/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</link>
+      <link>http://localhost:1313/robotics-portfoilo-tachadol/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/robotics-portfolio/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</guid>
+      <guid>http://localhost:1313/robotics-portfoilo-tachadol/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</guid>
       <description>A smart fingertip retrofit that uses underactuated cam-driven flexure to improve grasping of slippery and soft objects.</description>
     </item>
     <item>
       <title>Tanuki: Scalable End-effector Platform for Fine Manipulation with the Ability to Use Tools</title>
-      <link>http://localhost:1313/robotics-portfolio/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</link>
+      <link>http://localhost:1313/robotics-portfoilo-tachadol/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/robotics-portfolio/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</guid>
+      <guid>http://localhost:1313/robotics-portfoilo-tachadol/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</guid>
       <description>A scalable end-effector platform for fine manipulation and tool-use workflows in gastronomy robotics applications.</description>
     </item>
     <item>
       <title>Jamming-Based Stiffness-Adjustable Wheel on Soft Terrain</title>
-      <link>http://localhost:1313/robotics-portfolio/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</link>
+      <link>http://localhost:1313/robotics-portfoilo-tachadol/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</link>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/robotics-portfolio/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</guid>
+      <guid>http://localhost:1313/robotics-portfoilo-tachadol/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</guid>
       <description>Master&amp;rsquo;s research on a stiffness-adjustable wheel using jamming mechanisms for improved soft-terrain mobility.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/robotics-portfolio/about/</link>
+      <link>http://localhost:1313/robotics-portfoilo-tachadol/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/robotics-portfolio/about/</guid>
+      <guid>http://localhost:1313/robotics-portfoilo-tachadol/about/</guid>
       <description>&lt;p&gt;I am a mechatronics and robotics engineer currently based in Tokyo, focused on building robotic systems that work outside the lab.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-role&#34;&gt;Current Role&lt;/h2&gt;&#xA;&lt;p&gt;At Sony AI, I develop compliant robotic grippers with tactile sensing for delicate manipulation in gastronomy-focused applications. My work covers concept, CAD, prototyping, integration, and field-ready operation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;focus-areas&#34;&gt;Focus Areas&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Compliant gripper and tool design&lt;/li&gt;&#xA;&lt;li&gt;Hardware-software integration for robotic systems&lt;/li&gt;&#xA;&lt;li&gt;Electrical systems setup and safety architecture&lt;/li&gt;&#xA;&lt;li&gt;Adaptive mechanisms for locomotion and manipulation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;engineering-approach&#34;&gt;Engineering Approach&lt;/h2&gt;&#xA;&lt;p&gt;I work iteratively with rapid prototypes, test-driven mechanical improvements, and clear cross-functional communication between software, hardware, and operations teams.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/robotics-portfolio/cv/</link>
+      <link>http://localhost:1313/robotics-portfoilo-tachadol/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/robotics-portfolio/cv/</guid>
+      <guid>http://localhost:1313/robotics-portfoilo-tachadol/cv/</guid>
       <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:Tachadol.su@gmail.com&#34;&gt;Tachadol.su@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: (+81)80-4834-3708&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/tachadol-suthisomboon-213182140/&#34;&gt;tachadol-suthisomboon-213182140&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Google Scholar: &lt;a href=&#34;https://scholar.google.com/citations?user=tk3A2FUAAAAJ&amp;amp;hl=en&#34;&gt;Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;&#xA;&lt;p&gt;Robotics and Mechatronics Engineer with 5+ years of combined experience in academic research and industry R&amp;amp;D. Experienced in designing grippers, tactile sensing systems, robotic tools, robotic arms, mobile robots, and adaptive robotic mechanisms. Proficient in CAD/CAE, machine design, compliant mechanisms, and robotics electrical integration, with a strong record of cross-disciplinary execution.&lt;/p&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sony-ai-tokyo-japan&#34;&gt;Sony AI, Tokyo, Japan&lt;/h3&gt;&#xA;&lt;p&gt;Mechatronics Engineer | Dec 2023 - Present&lt;/p&gt;</description>
     </item>
   </channel>

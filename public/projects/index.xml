@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Tachadol Robotics Portfolio</title>
-    <link>http://localhost:1313/robotics-portfolio/projects/</link>
+    <link>http://localhost:1313/robotics-portfoilo-tachadol/projects/</link>
     <description>Recent content in Projects on Tachadol Robotics Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/robotics-portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/robotics-portfoilo-tachadol/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compliant Tactile Fingertip with Underactuated Cam-Driven Active Pinching</title>
-      <link>http://localhost:1313/robotics-portfolio/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</link>
+      <link>http://localhost:1313/robotics-portfoilo-tachadol/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/robotics-portfolio/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</guid>
+      <guid>http://localhost:1313/robotics-portfoilo-tachadol/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</guid>
       <description>A smart fingertip retrofit that uses underactuated cam-driven flexure to improve grasping of slippery and soft objects.</description>
     </item>
     <item>
       <title>Tanuki: Scalable End-effector Platform for Fine Manipulation with the Ability to Use Tools</title>
-      <link>http://localhost:1313/robotics-portfolio/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</link>
+      <link>http://localhost:1313/robotics-portfoilo-tachadol/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/robotics-portfolio/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</guid>
+      <guid>http://localhost:1313/robotics-portfoilo-tachadol/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</guid>
       <description>A scalable end-effector platform for fine manipulation and tool-use workflows in gastronomy robotics applications.</description>
     </item>
     <item>
       <title>Jamming-Based Stiffness-Adjustable Wheel on Soft Terrain</title>
-      <link>http://localhost:1313/robotics-portfolio/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</link>
+      <link>http://localhost:1313/robotics-portfoilo-tachadol/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</link>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/robotics-portfolio/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</guid>
+      <guid>http://localhost:1313/robotics-portfoilo-tachadol/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</guid>
       <description>Master&amp;rsquo;s research on a stiffness-adjustable wheel using jamming mechanisms for improved soft-terrain mobility.</description>
     </item>
   </channel>
