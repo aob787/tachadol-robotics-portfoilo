@@ -1,3 +1,33 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Tachadol Robotics Portfolio'
+
+[params]
+	description = 'Portfolio of robotics projects, systems work, and experiments.'
+	author = 'Tachadol Suthisomboon'
+	role = 'Mechatronics Engineer (Robotics)'
+	email = 'Tachadol.su@gmail.com'
+	phone = '(+81)80-4834-3708'
+	linkedin = 'https://www.linkedin.com/in/tachadol-suthisomboon-213182140/'
+	scholar = 'https://scholar.google.com/citations?user=tk3A2FUAAAAJ&hl=en'
+
+[menus]
+	[[menus.main]]
+		name = 'Home'
+		pageRef = '/'
+		weight = 10
+
+	[[menus.main]]
+		name = 'Projects'
+		pageRef = '/projects'
+		weight = 20
+
+	[[menus.main]]
+		name = 'About'
+		pageRef = '/about'
+		weight = 30
+
+	[[menus.main]]
+		name = 'CV'
+		pageRef = '/cv'
+		weight = 40

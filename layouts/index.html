@@ -1,0 +1,44 @@
+{{ define "main" }}
+  <section class="hero hero-grid">
+    <div>
+      <p class="eyebrow">Robotics Engineer</p>
+      <h1>{{ .Title }}</h1>
+      <div class="lead">{{ .Content }}</div>
+      <div class="hero-actions">
+        <a class="button" href="{{ "/projects/" | relURL }}">View Projects</a>
+        <a class="button button-alt" href="{{ "/cv/" | relURL }}">Read CV</a>
+      </div>
+      <p class="contact-links">
+        <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
+        <span>|</span>
+        <a href="{{ .Site.Params.linkedin }}">LinkedIn</a>
+        <span>|</span>
+        <a href="{{ .Site.Params.scholar }}">Google Scholar</a>
+      </p>
+    </div>
+    <img class="profile-image" src="/images/profile.jpg" alt="Tachadol Suthisomboon profile photo">
+  </section>
+
+  <section>
+    <h2>Selected Robotics Projects</h2>
+    <div class="card-grid">
+      {{ range first 3 (where site.RegularPages "Section" "projects") }}
+        <article class="card">
+          {{ $projectFolder := .File.ContentBaseName }}
+          {{ with .Params.project_folder }}{{ $projectFolder = . }}{{ end }}
+          {{ $imageFile := "cover.jpg" }}
+          {{ with .Params.image_file }}{{ $imageFile = . }}{{ end }}
+          {{ $imagePath := printf "/images/projects/%s/%s" $projectFolder $imageFile }}
+          {{ $staticPath := printf "static%s" $imagePath }}
+          {{ if fileExists $staticPath }}
+            <img class="project-square-image" src="{{ $imagePath }}" alt="{{ .Title }} cover image">
+          {{ else }}
+            <div class="project-square-placeholder">Project Image</div>
+          {{ end }}
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ with .Summary }}{{ . }}{{ else }}{{ .Params.summary }}{{ end }}</p>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

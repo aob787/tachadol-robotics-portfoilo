@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <section>
+    <h1>{{ .Title }}</h1>
+    <div>{{ .Content }}</div>
+    <div class="card-grid">
+      {{ range .Pages.ByDate.Reverse }}
+        <article class="card">
+          {{ if eq .Section "projects" }}
+            {{ $projectFolder := .File.ContentBaseName }}
+            {{ with .Params.project_folder }}{{ $projectFolder = . }}{{ end }}
+            {{ $imageFile := "cover.jpg" }}
+            {{ with .Params.image_file }}{{ $imageFile = . }}{{ end }}
+            {{ $imagePath := printf "/images/projects/%s/%s" $projectFolder $imageFile }}
+            {{ $staticPath := printf "static%s" $imagePath }}
+            {{ if fileExists $staticPath }}
+              <img class="project-square-image" src="{{ $imagePath }}" alt="{{ .Title }} cover image">
+            {{ else }}
+              <div class="project-square-placeholder">Project Image</div>
+            {{ end }}
+          {{ end }}
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          {{ with .Params.association }}
+            <p class="meta">Associated with: {{ . }}</p>
+          {{ end }}
+          <p>{{ with .Summary }}{{ . }}{{ else }}{{ .Params.summary }}{{ end }}</p>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
