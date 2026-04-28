@@ -14,10 +14,10 @@
             {{ with .Params.project_folder }}{{ $projectFolder = . }}{{ end }}
             {{ $imageFile := "cover.jpg" }}
             {{ with .Params.image_file }}{{ $imageFile = . }}{{ end }}
-            {{ $imagePath := printf "/images/projects/%s/%s" $projectFolder $imageFile }}
-            {{ $staticPath := printf "static%s" $imagePath }}
+            {{ $imagePath := printf "images/projects/%s/%s" $projectFolder $imageFile }}
+            {{ $staticPath := printf "static/%s" $imagePath }}
             {{ if fileExists $staticPath }}
-              <img class="project-page-image" src="{{ $imagePath }}" alt="{{ .Title }} cover image">
+              <img class="project-page-image" src="{{ $imagePath | absURL }}" alt="{{ .Title }} cover image">
             {{ else }}
               <div class="project-page-placeholder">Project Image Placeholder</div>
             {{ end }}
@@ -35,13 +35,13 @@
       {{ $galleryHTML := "" }}
       {{ $galleryHTML = printf "<section class=\"gallery-section\"><div class=\"gallery-head\"><h2 class=\"gallery-heading\">Media</h2><p class=\"gallery-count\"><span id=\"gallery-current\">1</span> / <span id=\"gallery-total\">%d</span></p></div><div class=\"gallery-track-wrap\"><button class=\"gallery-btn gallery-btn-prev\" aria-label=\"Previous slide\">&larr;</button><div class=\"gallery-track\" id=\"gallery-track\">" $galleryTotal }}
       {{ range .Params.gallery }}
-        {{ $galleryHTML = printf "%s<div class=\"gallery-slide\"><img src=\"%s\" alt=\"project slide\" loading=\"lazy\"></div>" $galleryHTML . }}
+        {{ $galleryHTML = printf "%s<div class=\"gallery-slide\"><img src=\"%s\" alt=\"project slide\" loading=\"lazy\"></div>" $galleryHTML (. | absURL) }}
       {{ end }}
       {{ $galleryHTML = printf "%s</div><button class=\"gallery-btn gallery-btn-next\" aria-label=\"Next slide\">&rarr;</button></div><div class=\"gallery-thumb-track\" id=\"gallery-thumb-track\">" $galleryHTML }}
       {{ range $index, $item := .Params.gallery }}
         {{ $active := "" }}
         {{ if eq $index 0 }}{{ $active = " is-active" }}{{ end }}
-        {{ $galleryHTML = printf "%s<button class=\"gallery-thumb%s\" type=\"button\" data-index=\"%d\" aria-label=\"Go to slide %d\"><img src=\"%s\" alt=\"slide %d thumbnail\" loading=\"lazy\"></button>" $galleryHTML $active $index (add $index 1) $item (add $index 1) }}
+        {{ $galleryHTML = printf "%s<button class=\"gallery-thumb%s\" type=\"button\" data-index=\"%d\" aria-label=\"Go to slide %d\"><img src=\"%s\" alt=\"slide %d thumbnail\" loading=\"lazy\"></button>" $galleryHTML $active $index (add $index 1) ($item | absURL) (add $index 1) }}
       {{ end }}
       {{ $galleryHTML = printf "%s</div></section>" $galleryHTML }}
       <div>

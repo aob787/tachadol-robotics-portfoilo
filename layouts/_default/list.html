@@ -10,10 +10,10 @@
             {{ with .Params.project_folder }}{{ $projectFolder = . }}{{ end }}
             {{ $imageFile := "cover.jpg" }}
             {{ with .Params.image_file }}{{ $imageFile = . }}{{ end }}
-            {{ $imagePath := printf "/images/projects/%s/%s" $projectFolder $imageFile }}
-            {{ $staticPath := printf "static%s" $imagePath }}
+            {{ $imagePath := printf "images/projects/%s/%s" $projectFolder $imageFile }}
+            {{ $staticPath := printf "static/%s" $imagePath }}
             {{ if fileExists $staticPath }}
-              <img class="project-square-image" src="{{ $imagePath }}" alt="{{ .Title }} cover image">
+              <img class="project-square-image" src="{{ $imagePath | absURL }}" alt="{{ .Title }} cover image">
             {{ else }}
               <div class="project-square-placeholder">Project Image</div>
             {{ end }}
