@@ -46,4 +46,4 @@ I executed the full development cycle for this robotic end-effector system.
 ## Links
 
 - Google Slides: Add link here
-- Video Demo: Add link here
+- Video Demo: [Google Drive Folder](https://drive.google.com/drive/folders/1pqwOs0azrz5pd8g4pgUdIQmkvOM6lBnt?usp=drive_link)
