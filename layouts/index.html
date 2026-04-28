@@ -5,8 +5,8 @@
       <h1>{{ .Title }}</h1>
       <div class="lead">{{ .Content }}</div>
       <div class="hero-actions">
-        <a class="button" href="{{ "/projects/" | relURL }}">View Projects</a>
-        <a class="button button-alt" href="{{ "/cv/" | relURL }}">Read CV</a>
+        <a class="button" href="{{ "projects/" | relURL }}">View Projects</a>
+        <a class="button button-alt" href="{{ "cv/" | relURL }}">Read CV</a>
       </div>
       <p class="contact-links">
         <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
