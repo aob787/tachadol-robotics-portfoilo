@@ -16,7 +16,7 @@
         <a href="{{ .Site.Params.scholar }}">Google Scholar</a>
       </p>
     </div>
-    <img class="profile-image" src="{{ "images/profile.jpg" | absURL }}" alt="Tachadol Suthisomboon profile photo">
+    <img class="profile-image" src="{{ printf "%simages/profile.jpg" .Site.BaseURL }}" alt="Tachadol Suthisomboon profile photo">
   </section>
 
   <section>
@@ -31,7 +31,7 @@
           {{ $imagePath := printf "images/projects/%s/%s" $projectFolder $imageFile }}
           {{ $staticPath := printf "static/%s" $imagePath }}
           {{ if fileExists $staticPath }}
-            <img class="project-square-image" src="{{ $imagePath | absURL }}" alt="{{ .Title }} cover image">
+            <img class="project-square-image" src="{{ printf "%s%s" .Site.BaseURL $imagePath }}" alt="{{ .Title }} cover image">
           {{ else }}
             <div class="project-square-placeholder">Project Image</div>
           {{ end }}
