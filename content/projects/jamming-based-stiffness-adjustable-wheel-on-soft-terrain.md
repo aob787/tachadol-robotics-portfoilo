@@ -64,5 +64,4 @@ These findings are consistent with prior wheel-terrain mechanics literature: inc
 
 ## Links
 
-- Google Slides: Add link here
 - Video Demo: [Google Drive Folder](https://drive.google.com/drive/folders/18RMdbjjPZUhoRedZN1vVWnsqCgRudkOg?usp=sharing)

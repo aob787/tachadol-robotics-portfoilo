@@ -6,8 +6,9 @@ association = "Sony AI"
 project_folder = "tanuki"
 image_file = "cover.jpg"
 gallery = [
-  # "/images/projects/tanuki/slide-01.jpg",
-  # "/images/projects/tanuki/slide-02.jpg",
+  "/images/projects/tanuki/slide-01.jpg",
+  "/images/projects/tanuki/slide-02.jpg",
+  "/images/projects/tanuki/slide-03.jpg",
 ]
 +++
 

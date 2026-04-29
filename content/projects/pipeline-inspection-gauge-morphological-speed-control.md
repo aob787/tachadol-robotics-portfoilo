@@ -35,9 +35,10 @@ Morphological Adaptation for Speed Control of Pipeline Inspection Gauges: From S
 IEEE/SICE International Symposium on System Integration (SII), 2025 — Pages 155–156
 Authors: T. Suthisomboon, S. Phodapol et al.
 
-Achievement: SIYA-SII2025 (SIYA-SII Winners)
-Award-winning paper presenter: Thipawan Pairam
-Reference: [Past SIYA-SII Winners](https://sice-si.org/en/past_siya-sii_winners/)
+Achievement highlights:
+- SIYA-SII2025 (SIYA-SII Winners)
+- Award-winning paper presenter: Thipawan Pairam
+- Reference: [Past SIYA-SII Winners](https://sice-si.org/en/past_siya-sii_winners/)
 
 The 2025 paper presents the full integrated system evaluated and demonstrated in an actual industrial pipeline environment under various fluid flow rates.
 
