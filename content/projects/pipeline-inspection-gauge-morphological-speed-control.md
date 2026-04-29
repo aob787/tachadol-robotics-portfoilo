@@ -64,4 +64,8 @@ I was a key contributor across the project lifecycle, from early feasibility to 
 
 - Paper (SII 2025): [IEEE](https://ieeexplore.ieee.org/document/10890021)
 - Paper (ADIPEC 2021): [SPE](https://onepetro.org/SPEADIP/proceedings-abstract/21ADIP/3-21ADIP/D011S025R004/473540)
-- Video Demo: Add link here
+- Video Demo: [Google Drive](https://drive.google.com/file/d/1PPuNLwX_M4ojAeKmKQL5N-xAInn1TiwQ/view?usp=sharing)
+
+## Concept Overview Video
+
+{{< gdrive-video id="1PPuNLwX_M4ojAeKmKQL5N-xAInn1TiwQ" >}}
