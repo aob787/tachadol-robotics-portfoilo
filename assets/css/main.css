@@ -202,20 +202,22 @@ h3 {
 .project-square-image {
   width: 100%;
   aspect-ratio: 1 / 1;
-  object-fit: cover;
+  object-fit: contain;
+  padding: 0.45rem;
   border-radius: 0.6rem;
   border: 1px solid var(--border);
-  background: var(--surface);
+  background: color-mix(in srgb, var(--surface) 92%, #f3efe8 8%);
   margin-bottom: 0.85rem;
 }
 
 .project-page-image {
   width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
+  padding: 0.55rem;
   border-radius: 0.6rem;
   border: 1px solid var(--border);
-  background: transparent;
+  background: color-mix(in srgb, var(--surface) 94%, #f3efe8 6%);
   margin-bottom: 0.85rem;
 }
 
