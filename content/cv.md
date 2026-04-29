@@ -26,7 +26,7 @@ Mechatronics Engineer | Dec 2023 - Present
 ### AI and Robotics Ventures (ARV), Bangkok, Thailand
 Robotics Mechanical Engineer | Nov 2020 - Aug 2021
 
-- Designed and developed prototype mobile robot bases for harsh and explosive environments.
+- Designed and developed [mobile robot prototypes for harsh and explosive environments](../projects/mobile-robot-prototype-for-explosive-area/).
 - Coordinated with vendors for component sourcing and fabrication.
 - Performed thermal analysis on electrical components within enclosures to ensure safe operation.
 - Contributed to PTTEP Innovation Gold/Silver award-winning outcomes and a petty patent.
