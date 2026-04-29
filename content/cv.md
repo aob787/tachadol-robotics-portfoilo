@@ -17,9 +17,9 @@ Robotics and Mechatronics Engineer with 5+ years of combined experience in acade
 ### Sony AI, Tokyo, Japan
 Mechatronics Engineer | Dec 2023 - Present
 
-- Designed and developed [compliant robotic grippers](../projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/) integrated with tactile sensors for delicate and fine manipulation in gastronomy applications.
+- Designed and developed [compliant robotic grippers with tactile sensors](../projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/) and [scalable end-effector platforms](../projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/) for delicate and fine manipulation in gastronomy applications.
 - Primarily worked as a Mechatronics/Mechanical Engineer, and stepped in as Robot Operations Team Lead to support team execution and ensure strict compliance with food safety standards during trials and live demonstrations.
-- Led CAD design, prototyping, testing, and integration of custom tools and [scalable end-effector platforms](../projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/).
+- Led CAD design, prototyping, testing, and integration of compliant fingertips, custom tools, and end-effector systems.
 - Managed electrical integration including power, drivers, relays, emergency-stop systems, and hardware setup.
 - Coordinated multi-location operations and contributed to patent filings for novel tooling and gripper technologies.
 
