@@ -15,7 +15,7 @@ gallery = [
 
 Pipeline inspection gauges (PIGs) are devices used for in-pipe inspection and maintenance. Controlling their speed is critical for safe operation, but passive PIGs lack any speed regulation capability.
 
-This project develops a modular, external add-on speed control module for PIGs — called MC-PIG — using the principle of morphological adaptation. By adjusting the angle of a rotary valve unit integrated with the PIG body, the module modulates bypass flow and thereby regulates the device's moving speed inside the pipeline.
+This project develops a modular, external add-on speed control module for PIGs — called MC-PIG (Morphological Computation PIG) — using the principle of morphological adaptation. By adjusting the angle of a rotary valve unit integrated with the PIG body, the module modulates bypass flow and thereby regulates the device's moving speed inside the pipeline.
 
 The full system integrates multiple sensors, a rotary valve with an actuator, and an embedded controller with sensor fusion via an Extended Kalman Filter (EKF). Closed-loop Proportional-Derivative (PD) control automatically adjusts the valve morphology to match the desired speed.
 
@@ -28,12 +28,16 @@ Morphological Adaptation for Speed Control of Pipeline Inspection Gauges: MC-PIG
 SPE Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC), 2021
 Authors: S. Phodapol, T. Suthisomboon et al.
 
-This earlier work introduced the MC-PIG concept, validated valve-based speed modulation via CFD numerical simulation, and performed small-scale mock testing. The focus was on establishing feasibility of the modular rotary valve approach.
+This earlier work introduced the MC-PIG (Morphological Computation PIG) concept, validated valve-based speed modulation via CFD numerical simulation, and performed small-scale mock testing. The focus was on establishing feasibility of the modular rotary valve approach.
 
 **Paper 2 — System Integration and Real-World Demo (2025)**
 Morphological Adaptation for Speed Control of Pipeline Inspection Gauges: From System Integration to Real-world Demonstration
 IEEE/SICE International Symposium on System Integration (SII), 2025 — Pages 155–156
-Authors: T. Suthisomboon, S. Phodapol, T. Pairam, K. Phongaksorn, N. Asawalertsak, P. Kriengkomol, T. Jitnaknan, P. Janbanjong, P. Manoonpong
+Authors: T. Suthisomboon, S. Phodapol et al.
+
+Achievement: SIYA-SII2025 (SIYA-SII Winners)
+Award-winning paper presenter: Thipawan Pairam
+Reference: [Past SIYA-SII Winners](https://sice-si.org/en/past_siya-sii_winners/)
 
 The 2025 paper presents the full integrated system evaluated and demonstrated in an actual industrial pipeline environment under various fluid flow rates.
 
