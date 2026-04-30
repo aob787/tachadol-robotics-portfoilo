@@ -19,6 +19,14 @@ At Sony AI, I develop compliant robotic grippers and end-effector systems with t
 
 I work iteratively through rapid prototyping, test-driven mechanical refinement, and cross-functional collaboration across software, hardware, and operations. My goal is to turn novel mechanism concepts into reliable, maintainable, and deployment-ready robotic solutions.
 
+## Outside Work
+
+Outside of engineering, I enjoy hands-on and active hobbies that keep me curious and balanced.
+
+- Cooking: blending multinational techniques and ingredients, inspired by experiences from studying and working across different countries.
+- Cycling: long rides and exploration around new routes.
+- Snowboarding: improving technique and enjoying mountain trips in winter.
+
 ## Contact
 
 - Email: [Tachadol.su@gmail.com](mailto:Tachadol.su@gmail.com)

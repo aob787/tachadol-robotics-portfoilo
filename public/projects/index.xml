@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Tachadol Robotics Portfolio</title>
-    <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/</link>
+    <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/</link>
     <description>Recent content in Projects on Tachadol Robotics Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aob787.github.io/tachadol-robotics-portfoilo/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tachadol-robotics-portfoilo/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compliant Tactile Fingertip with Underactuated Cam-Driven Active Pinching</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</guid>
       <description>A smart fingertip retrofit that uses underactuated cam-driven flexure to improve grasping of slippery and soft objects.</description>
     </item>
     <item>
       <title>Tanuki: Scalable End-effector Platform for Fine Manipulation with the Ability to Use Tools</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</link>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</guid>
       <description>A modular and scalable end-effector platform that combines robustness with high-speed, high-precision fine manipulation.</description>
     </item>
     <item>
       <title>Morphological Adaptation for Speed Control of Pipeline Inspection Gauges</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/pipeline-inspection-gauge-morphological-speed-control/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/pipeline-inspection-gauge-morphological-speed-control/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/pipeline-inspection-gauge-morphological-speed-control/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/pipeline-inspection-gauge-morphological-speed-control/</guid>
       <description>An add-on adaptive speed control module for pipeline inspection gauges, using morphological adaptation via a rotary valve unit and closed-loop PD control — demonstrated in a real industrial pipeline.</description>
     </item>
     <item>
       <title>Jamming-Based Stiffness-Adjustable Wheel on Soft Terrain</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</guid>
       <description>Master&amp;rsquo;s research on a stiffness-adjustable wheel using jamming mechanisms for improved soft-terrain mobility.</description>
     </item>
     <item>
       <title>MPPT Solar Cell System for LED Streetlight</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/mppt-solar-led-streetlight-system/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/mppt-solar-led-streetlight-system/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/mppt-solar-led-streetlight-system/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/mppt-solar-led-streetlight-system/</guid>
       <description>Freelance development of an MPPT-based solar power system for LED streetlights, including power electronics, prototype-to-PCB transition, and weatherproof deployment considerations.</description>
     </item>
     <item>
       <title>Mobile Robot Prototype for Explosive Area</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/mobile-robot-prototype-for-explosive-area/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/mobile-robot-prototype-for-explosive-area/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/mobile-robot-prototype-for-explosive-area/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/mobile-robot-prototype-for-explosive-area/</guid>
       <description>Designed and developed prototype mobile robot bases for operation in harsh and explosive environments.</description>
     </item>
     <item>
       <title>Shield for Heroes: Staff and Contact-Point 3D-Printed Fabrication</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/shield-for-heroes-staff-and-contact-point-3d-printed-fabrication/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/shield-for-heroes-staff-and-contact-point-3d-printed-fabrication/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/shield-for-heroes-staff-and-contact-point-3d-printed-fabrication/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/shield-for-heroes-staff-and-contact-point-3d-printed-fabrication/</guid>
       <description>Volunteer fabrication effort for 3D-printed face shields, supporting medical staff and rural hospitals across Thailand during the COVID-19 period.</description>
     </item>
     <item>
       <title>3D MEMS Micropositioning via Femtoprint for Out-of-Plane Motion</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/3d-mems-micropositioning-via-femtoprint/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/3d-mems-micropositioning-via-femtoprint/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/3d-mems-micropositioning-via-femtoprint/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/3d-mems-micropositioning-via-femtoprint/</guid>
       <description>Bachelor&amp;rsquo;s thesis and FEMTO-ST internship work investigating femtosecond-laser-based Femtoprint fabrication for MEMS structures with out-of-plane motion beyond conventional planar microfabrication limits.</description>
     </item>
     <item>
       <title>4-DOF Palletizer Robot</title>
-      <link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/4-dof-palletizer-robot/</link>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/4-dof-palletizer-robot/</link>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/4-dof-palletizer-robot/</guid>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/4-dof-palletizer-robot/</guid>
       <description>Team project to develop a 4-DOF palletizer robot for automatic parcel sorting and rack storage.</description>
     </item>
   </channel>
