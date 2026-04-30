@@ -1,9 +1,10 @@
 +++
 title = "Jamming-Based Stiffness-Adjustable Wheel on Soft Terrain"
-date = 2026-04-26
+date = 2023-08-31
 summary = "Master's research on a stiffness-adjustable wheel using jamming mechanisms for improved soft-terrain mobility."
 association = "Master's Degree"
-project_sort = "2025-12-31"
+project_period = "Sep 2021 - Aug 2023"
+project_sort = "2023-08-31"
 project_folder = "jamming-wheel"
 image_file = "cover.jpg"
 gallery = [

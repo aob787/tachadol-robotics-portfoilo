@@ -1,10 +1,10 @@
 +++
 title = "MPPT Solar Cell System for LED Streetlight"
-date = 2026-04-29
+date = 2021-12-31
 summary = "Freelance development of an MPPT-based solar power system for LED streetlights, including power electronics, prototype-to-PCB transition, and weatherproof deployment considerations."
 association = "Freelance Project"
 project_period = "2020 - 2021"
-project_sort = "2021-01-01"
+project_sort = "2021-12-31"
 project_folder = "mppt-solar-led-streetlight"
 image_file = "cover.jpg"
 gallery = [

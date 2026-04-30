@@ -1,13 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tachadol Robotics Portfolio</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/</link><description>Recent content on Tachadol Robotics Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://aob787.github.io/tachadol-robotics-portfoilo/index.xml" rel="self" type="application/rss+xml"/><item><title>MPPT Solar Cell System for LED Streetlight</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/mppt-solar-led-streetlight-system/</link><pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/mppt-solar-led-streetlight-system/</guid><description>Freelance development of an MPPT-based solar power system for LED streetlights, including power electronics, prototype-to-PCB transition, and weatherproof deployment considerations.</description></item><item><title>Compliant Tactile Fingertip with Underactuated Cam-Driven Active Pinching</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</link><pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</guid><description>A smart fingertip retrofit that uses underactuated cam-driven flexure to improve grasping of slippery and soft objects.</description></item><item><title>Tanuki: Scalable End-effector Platform for Fine Manipulation with the Ability to Use Tools</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</link><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</guid><description>A modular and scalable end-effector platform that combines robustness with high-speed, high-precision fine manipulation.</description></item><item><title>Jamming-Based Stiffness-Adjustable Wheel on Soft Terrain</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</link><pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</guid><description>Master&amp;rsquo;s research on a stiffness-adjustable wheel using jamming mechanisms for improved soft-terrain mobility.</description></item><item><title>Morphological Adaptation for Speed Control of Pipeline Inspection Gauges</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/pipeline-inspection-gauge-morphological-speed-control/</link><pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/pipeline-inspection-gauge-morphological-speed-control/</guid><description>An add-on adaptive speed control module for pipeline inspection gauges, using morphological adaptation via a rotary valve unit and closed-loop PD control — demonstrated in a real industrial pipeline.</description></item><item><title>Mobile Robot Prototype for Explosive Area</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/mobile-robot-prototype-for-explosive-area/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/mobile-robot-prototype-for-explosive-area/</guid><description>Designed and developed prototype mobile robot bases for operation in harsh and explosive environments.</description></item><item><title>Shield for Heroes: Staff and Contact-Point 3D-Printed Fabrication</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/projects/shield-for-heroes-staff-and-contact-point-3d-printed-fabrication/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/projects/shield-for-heroes-staff-and-contact-point-3d-printed-fabrication/</guid><description>Volunteer fabrication effort for 3D-printed face shields, supporting medical staff and rural hospitals across Thailand during the COVID-19 period.</description></item><item><title>About</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/about/</guid><description>&lt;p&gt;I am a mechatronics and robotics engineer based in Tokyo, with a strong mechanism-driven approach that balances practicality and novelty. I focus on creating robotic systems that are not only technically interesting in the lab, but also mature and usable in real operations.&lt;/p&gt;
-&lt;h2 id="current-role"&gt;Current Role&lt;/h2&gt;
-&lt;p&gt;At Sony AI, I develop compliant robotic grippers and end-effector systems with tactile sensing for delicate manipulation in gastronomy-focused applications. My work spans concept development, CAD and mechanism design, rapid prototyping, integration, and iterative validation toward robust, lab-proven solutions that are ready for practical deployment. I also contribute to control box development, robot setup electrical integration, and safety system architecture.&lt;/p&gt;</description></item><item><title>CV</title><link>https://aob787.github.io/tachadol-robotics-portfoilo/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://aob787.github.io/tachadol-robotics-portfoilo/cv/</guid><description>&lt;h2 id="contact"&gt;Contact&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Email: &lt;a href="mailto:Tachadol.su@gmail.com"&gt;Tachadol.su@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;LinkedIn: &lt;a href="https://www.linkedin.com/in/tachadol-suthisomboon-213182140/"&gt;tachadol-suthisomboon-213182140&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Google Scholar: &lt;a href="https://scholar.google.com/citations?user=tk3A2FUAAAAJ&amp;amp;hl=en"&gt;Profile&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="professional-summary"&gt;Professional Summary&lt;/h2&gt;
-&lt;p&gt;Robotics and Mechatronics Engineer with 5+ years of combined experience in academic research and industry R&amp;amp;D. Experienced in designing grippers, tactile sensing systems, robotic tools, robotic arms, mobile robots, and adaptive robotic mechanisms. Proficient in CAD/CAE, machine design, compliant mechanisms, and robotics electrical integration, with a strong record of cross-disciplinary execution.&lt;/p&gt;
-&lt;h2 id="experience"&gt;Experience&lt;/h2&gt;
-&lt;h3 id="sony-ai-tokyo-japan"&gt;Sony AI, Tokyo, Japan&lt;/h3&gt;
-&lt;p&gt;Mechatronics Engineer | Dec 2023 - Present&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tachadol Robotics Portfolio</title>
+    <link>http://localhost:1313/tachadol-robotics-portfoilo/</link>
+    <description>Recent content on Tachadol Robotics Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tachadol-robotics-portfoilo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compliant Tactile Fingertip with Underactuated Cam-Driven Active Pinching</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</link>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/compliant-tactile-fingertip-underactuated-cam-driven-active-pinching/</guid>
+      <description>A smart fingertip retrofit that uses underactuated cam-driven flexure to improve grasping of slippery and soft objects.</description>
+    </item>
+    <item>
+      <title>Tanuki: Scalable End-effector Platform for Fine Manipulation with the Ability to Use Tools</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/tanuki-scalable-end-effector-platform-for-fine-manipulation/</guid>
+      <description>A modular and scalable end-effector platform that combines robustness with high-speed, high-precision fine manipulation.</description>
+    </item>
+    <item>
+      <title>Morphological Adaptation for Speed Control of Pipeline Inspection Gauges</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/pipeline-inspection-gauge-morphological-speed-control/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/pipeline-inspection-gauge-morphological-speed-control/</guid>
+      <description>An add-on adaptive speed control module for pipeline inspection gauges, using morphological adaptation via a rotary valve unit and closed-loop PD control — demonstrated in a real industrial pipeline.</description>
+    </item>
+    <item>
+      <title>Jamming-Based Stiffness-Adjustable Wheel on Soft Terrain</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/jamming-based-stiffness-adjustable-wheel-on-soft-terrain/</guid>
+      <description>Master&amp;rsquo;s research on a stiffness-adjustable wheel using jamming mechanisms for improved soft-terrain mobility.</description>
+    </item>
+    <item>
+      <title>MPPT Solar Cell System for LED Streetlight</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/mppt-solar-led-streetlight-system/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/mppt-solar-led-streetlight-system/</guid>
+      <description>Freelance development of an MPPT-based solar power system for LED streetlights, including power electronics, prototype-to-PCB transition, and weatherproof deployment considerations.</description>
+    </item>
+    <item>
+      <title>Mobile Robot Prototype for Explosive Area</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/mobile-robot-prototype-for-explosive-area/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/mobile-robot-prototype-for-explosive-area/</guid>
+      <description>Designed and developed prototype mobile robot bases for operation in harsh and explosive environments.</description>
+    </item>
+    <item>
+      <title>Shield for Heroes: Staff and Contact-Point 3D-Printed Fabrication</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/projects/shield-for-heroes-staff-and-contact-point-3d-printed-fabrication/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/projects/shield-for-heroes-staff-and-contact-point-3d-printed-fabrication/</guid>
+      <description>Volunteer fabrication effort for 3D-printed face shields, supporting medical staff and rural hospitals across Thailand during the COVID-19 period.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/about/</guid>
+      <description>&lt;p&gt;I am a mechatronics and robotics engineer based in Tokyo, with a strong mechanism-driven approach that balances practicality and novelty. I focus on creating robotic systems that are not only technically interesting in the lab, but also mature and usable in real operations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-role&#34;&gt;Current Role&lt;/h2&gt;&#xA;&lt;p&gt;At Sony AI, I develop compliant robotic grippers and end-effector systems with tactile sensing for delicate manipulation in gastronomy-focused applications. My work spans concept development, CAD and mechanism design, rapid prototyping, integration, and iterative validation toward robust, lab-proven solutions that are ready for practical deployment. I also contribute to control box development, robot setup electrical integration, and safety system architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/tachadol-robotics-portfoilo/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tachadol-robotics-portfoilo/cv/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:Tachadol.su@gmail.com&#34;&gt;Tachadol.su@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/tachadol-suthisomboon-213182140/&#34;&gt;tachadol-suthisomboon-213182140&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Google Scholar: &lt;a href=&#34;https://scholar.google.com/citations?user=tk3A2FUAAAAJ&amp;amp;hl=en&#34;&gt;Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;&#xA;&lt;p&gt;Robotics and Mechatronics Engineer with 5+ years of combined experience in academic research and industry R&amp;amp;D. Experienced in designing grippers, tactile sensing systems, robotic tools, robotic arms, mobile robots, and adaptive robotic mechanisms. Proficient in CAD/CAE, machine design, compliant mechanisms, and robotics electrical integration, with a strong record of cross-disciplinary execution.&lt;/p&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sony-ai-tokyo-japan&#34;&gt;Sony AI, Tokyo, Japan&lt;/h3&gt;&#xA;&lt;p&gt;Mechatronics Engineer | Dec 2023 - Present&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
