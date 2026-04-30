@@ -22,23 +22,31 @@
   <section>
     <h2>Selected Robotics Projects</h2>
     <div class="card-grid">
-      {{ range first 3 (where site.RegularPages "Section" "projects") }}
-        <article class="card">
-          {{ $projectFolder := .File.ContentBaseName }}
-          {{ with .Params.project_folder }}{{ $projectFolder = . }}{{ end }}
-          {{ $imageFile := "cover.jpg" }}
-          {{ with .Params.image_file }}{{ $imageFile = . }}{{ end }}
-          {{ $imagePath := printf "images/projects/%s/%s" $projectFolder $imageFile }}
-          {{ $staticPath := printf "static/%s" $imagePath }}
-          {{ if fileExists $staticPath }}
-            <img class="project-square-image" src="{{ printf "%s%s" .Site.BaseURL $imagePath }}" alt="{{ .Title }} cover image">
-          {{ else }}
-            <div class="project-square-placeholder">Project Image</div>
-          {{ end }}
-          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-          <p>{{ with .Summary }}{{ . }}{{ else }}{{ .Params.summary }}{{ end }}</p>
-        </article>
+      {{ $selectedProjects := slice
+        "compliant-tactile-fingertip-underactuated-cam-driven-active-pinching"
+        "tanuki-scalable-end-effector-platform-for-fine-manipulation"
+        "jamming-based-stiffness-adjustable-wheel-on-soft-terrain"
+      }}
+      {{ range $selectedProjects }}
+        {{ with site.GetPage (printf "/projects/%s" .) }}
+          <article class="card">
+            {{ $projectFolder := .File.ContentBaseName }}
+            {{ with .Params.project_folder }}{{ $projectFolder = . }}{{ end }}
+            {{ $imageFile := "cover.jpg" }}
+            {{ with .Params.image_file }}{{ $imageFile = . }}{{ end }}
+            {{ $imagePath := printf "images/projects/%s/%s" $projectFolder $imageFile }}
+            {{ $staticPath := printf "static/%s" $imagePath }}
+            {{ if fileExists $staticPath }}
+              <img class="project-square-image" src="{{ printf "%s%s" .Site.BaseURL $imagePath }}" alt="{{ .Title }} cover image">
+            {{ else }}
+              <div class="project-square-placeholder">Project Image</div>
+            {{ end }}
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p>{{ with .Summary }}{{ . }}{{ else }}{{ .Params.summary }}{{ end }}</p>
+          </article>
+        {{ end }}
       {{ end }}
     </div>
+    <p class="meta section-link-right"><a href="{{ "projects/" | relURL }}">See more projects</a></p>
   </section>
 {{ end }}

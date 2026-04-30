@@ -62,7 +62,7 @@ King Mongkut's University of Technology Thonburi, Bangkok, Thailand | 2016 - 202
 ## Publications and Patents
 
 - Patent: Enhanced Robotic System with Automated Exchange of Fingertip Modules, U.S. Patent Application No. 19/329,415, 2025 (Co-inventor, patent pending)
-- Suthisomboon T., Bonardi S., Ishigami G., [Design and Development of Jamming-Based Stiffness-Adjustable Wheel on Soft Terrain](https://www.researchgate.net/publication/388596079_Design_and_development_of_jamming-based_stiffness-adjustable_wheel_on_soft_terrain), Journal of Terramechanics, 2025
+- Suthisomboon T., Bonardi S., Ishigami G., [Design and Development of Jamming-Based Stiffness-Adjustable Wheel on Soft Terrain](https://www.sciencedirect.com/science/article/abs/pii/S0022489824000569), Journal of Terramechanics, 2025
 - Suthisomboon T. et al., [Morphological Adaptation for Speed Control of Pipeline Inspection Gauges: From System Integration to Real-world Demonstration](https://ieeexplore.ieee.org/abstract/document/10871039), IEEE/SICE SII, 2025 (SICE International Young Authors Award)
 - Phodapol S., Suthisomboon T. et al., [Morphological Adaptation for Speed Control of Pipeline Inspection Gauges (MC-PIG)](https://onepetro.org/SPEADIP/proceedings-abstract/21ADIP/21ADIP/D011S025R004/473911), ADIPEC, 2021
 - Suthisomboon T. et al., [VENOM: Versatile, Adhesive, and Soft Material for Various Surface Adhesion](https://ieeexplore.ieee.org/abstract/document/9479242), IEEE RoboSoft, 2021

@@ -381,6 +381,11 @@ h3 {
   margin-top: -0.2rem;
 }
 
+.section-link-right {
+  text-align: right;
+  margin-top: 0.65rem;
+}
+
 @media (max-width: 640px) {
   .gallery-thumb {
     width: 88px;

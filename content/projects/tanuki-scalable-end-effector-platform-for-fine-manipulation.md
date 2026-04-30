@@ -3,6 +3,8 @@ title = "Tanuki: Scalable End-effector Platform for Fine Manipulation with the A
 date = 2026-04-27
 summary = "A modular and scalable end-effector platform that combines robustness with high-speed, high-precision fine manipulation."
 association = "Sony AI"
+project_period = "Dec 2023 - Present"
+project_sort = "2026-12-31"
 project_folder = "tanuki"
 image_file = "cover.jpg"
 gallery = [
@@ -45,5 +47,4 @@ I contributed to the development and integration cycle of the Tanuki platform wi
 
 ## Links
 
-- Google Slides: Add link here
 - Video Demo: [Google Drive Folder](https://drive.google.com/drive/folders/14khohbMYBQQ7Ac7cZKq-Sfo2vvjb9Cyc?usp=sharing)

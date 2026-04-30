@@ -2,6 +2,6 @@
 title = "Projects"
 +++
 
-A curated set of robotics projects from Sony AI and graduate research.
+This is a collection of my previous projects from engineering school, professional work, and hobby builds.
 
-More projects will be added over time with media, technical notes, and demonstration links.
+Each project includes practical context, technical details, and selected media when available.

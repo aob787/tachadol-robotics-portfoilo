@@ -8,6 +8,13 @@
             {{ with .Params.summary }}
               <p class="meta">{{ . }}</p>
             {{ end }}
+            {{ if or .Params.association .Params.project_period }}
+              <p class="meta">
+                {{ with .Params.association }}Associated with: {{ . }}{{ end }}
+                {{ if and .Params.association .Params.project_period }} | {{ end }}
+                {{ with .Params.project_period }}Project Date: {{ . }}{{ end }}
+              </p>
+            {{ end }}
           </div>
           <div class="project-header-media">
             {{ $projectFolder := .File.ContentBaseName }}

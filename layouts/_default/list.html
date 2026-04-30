@@ -3,7 +3,8 @@
     <h1>{{ .Title }}</h1>
     <div>{{ .Content }}</div>
     <div class="card-grid">
-      {{ range .Pages.ByDate.Reverse }}
+      {{ $projectPages := sort .Pages "Params.project_sort" "desc" }}
+      {{ range $projectPages }}
         <article class="card">
           {{ if eq .Section "projects" }}
             {{ $projectFolder := .File.ContentBaseName }}
@@ -19,8 +20,12 @@
             {{ end }}
           {{ end }}
           <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          {{ with .Params.association }}
-            <p class="meta">Associated with: {{ . }}</p>
+          {{ if or .Params.association .Params.project_period }}
+            <p class="meta">
+              {{ with .Params.association }}Associated with: {{ . }}{{ end }}
+              {{ if and .Params.association .Params.project_period }} | {{ end }}
+              {{ with .Params.project_period }}Project Date: {{ . }}{{ end }}
+            </p>
           {{ end }}
           <p>{{ with .Summary }}{{ . }}{{ else }}{{ .Params.summary }}{{ end }}</p>
         </article>
