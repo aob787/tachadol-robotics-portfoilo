@@ -41,7 +41,7 @@ Research Engineer (Part-/Full-time) | Aug 2020 - May 2023
 ### Femto-ST Institute, Besancon, France
 Intern | Jul 2019 - Oct 2019
 
-- Designed and simulated out-of-plane 3D MEMS micropositioners using femtosecond laser processes.
+- Designed and simulated [out-of-plane 3D MEMS micropositioners using Femtoprint/femtosecond laser processes](../projects/3d-mems-micropositioning-via-femtoprint/).
 
 ## Education
 
@@ -57,7 +57,7 @@ Keio University (Japan) and University of Genoa (Italy) | 2021 - 2023
 King Mongkut's University of Technology Thonburi, Bangkok, Thailand | 2016 - 2020
 
 - GPA: 3.73 / 4.00 (First-Class Honors, Top Rank)
-- Senior Project: MEMS 3D-Micropositioning with Femtoprint Process
+- Bachelor's Thesis: [3D MEMS Micropositioning via Femtoprint for Out-of-Plane Motion](../projects/3d-mems-micropositioning-via-femtoprint/)
 
 ## Publications and Patents
 

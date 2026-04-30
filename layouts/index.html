@@ -37,7 +37,7 @@
             {{ $imagePath := printf "images/projects/%s/%s" $projectFolder $imageFile }}
             {{ $staticPath := printf "static/%s" $imagePath }}
             {{ if fileExists $staticPath }}
-              <img class="project-square-image" src="{{ printf "%s%s" .Site.BaseURL $imagePath }}" alt="{{ .Title }} cover image">
+              <img class="project-square-image" src="{{ $imagePath | relURL }}" alt="{{ .Title }} cover image">
             {{ else }}
               <div class="project-square-placeholder">Project Image</div>
             {{ end }}
